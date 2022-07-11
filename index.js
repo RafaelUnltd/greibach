@@ -8,7 +8,7 @@ function main () {
   if (fileName) {
     fs.readFile(`./entries/${fileName}`, 'utf8', (err, response) => {
       if (err) {
-        console.log(`Falha na leitura do arquivo. Existe um arquivo na pasta /entries com o nome "${fileName}"`, err)
+        console.log(`Falha na leitura do arquivo. Existe um arquivo na pasta /entries com o nome "${fileName}"?`, err)
         return
       }
       const greibach = new Greibach(JSON.parse(response).glc)
