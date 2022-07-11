@@ -1,9 +1,6 @@
 ## Trabalho prático - Forma normal de Greibach
 
 **Autor:** Rafael Willian Silva
-
-**Matrícula:** 201712040162
-
 ------------------------
 
 ## Como configurar e rodar o projeto
