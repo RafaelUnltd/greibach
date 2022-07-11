@@ -1,0 +1,15 @@
+{
+  "name": "tp_glc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Willian Silva",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
